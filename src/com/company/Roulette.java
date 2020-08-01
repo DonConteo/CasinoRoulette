@@ -92,7 +92,7 @@ public class Roulette {
                             System.out.println(" ");
                             haveABreak(2);}
                         else {lose(cash, bet);
-                            System.out.println("������ " + rouletteNumber + ", красное");
+                            System.out.println("Выпало " + rouletteNumber + ", красное");
                             System.out.println(" ");
                             haveABreak(2);}
                         haveACash(cash);
